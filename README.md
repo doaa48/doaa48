@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doaa</h1>
-<h3 align="center">Embedded System developer from Egypt</h3>
+<h3 align="center">Embedded System developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doaa48&label=Profile%20views&color=0e75b6&style=flat" alt="doaa48" /> </p>
 
@@ -11,12 +11,12 @@
 
 - 📫 How to reach me **Doaa.Mobark00@eng-st.cu.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pXI5dLGBxZltabafRlc6JQEqTp6LMPbh/view](https://drive.google.com/file/d/1pXI5dLGBxZltabafRlc6JQEqTp6LMPbh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/doaa-mohamed-4b69aa1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doaa-mohamed-4b69aa1b2/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/doaamahmed678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/doaashafiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/doaashafiy" height="30" width="40" /></a>
 </p>
 
